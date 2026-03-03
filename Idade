@@ -1,0 +1,7 @@
+idade = int(input("Digite sua idade: "))
+
+if idade <= 16:
+    print("independente da sua idade tu continua sendo gay otario")
+else:
+    print("independente da sua idade tu continua sendo gay otario")
+    	
